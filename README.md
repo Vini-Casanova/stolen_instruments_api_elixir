@@ -1,8 +1,8 @@
 # StolenInstrumentsApi
 
-This Project is a port from the original [https://github.com/idopterlabs/stolen_instruments_api.git] project for study porpuses
+This project is a port of the original [stolen_instruments_api](https://github.com/idopterlabs/stolen_instruments_api.git) project for study purposes.
 
-Shoutout for [https://github.com/idopterlabs] IdopterLabs 
+Shoutout to [IdopterLabs](https://github.com/idopterlabs)
 
 To start your Phoenix server:
 
